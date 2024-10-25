@@ -23,7 +23,7 @@ ACCESS_TOKEN = os.environ['WEBEX_ACCESS_TOKEN']
 
 # Defines a variable that will hold the roomId
 roomIdToGetMessages = (
-    "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vYmU4NjkyYTAtOGE0ZC0xMWVmLTlhYzgtZWJkNTFkNTg3ZmIw"
+    "Y2lzY29zcGFyazovL3VzL1JPT00vNTFmNTJiMjAtNWQwYi0xMWVmLWE5YTAtNzlkNTQ0ZjRkNGZi"
 )
 
 while True:
